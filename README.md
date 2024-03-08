@@ -10,13 +10,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santagatiivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=false" height="170" alt="languages graph"  />
-</div>
+<p align="left">👀 I'm drawn to pioneering projects in technology, especially those that blend programming and artificial intelligence to tackle global challenges. I seek opportunities that foster my professional growth and positively impact society.<br><br>🌱 I’m currently learning Solidity<br><br>💞️ I’m looking to collaborate on projects that challenge me and help me expand my programming skills, particularly those that involve innovative technologies or have a significant impact on society. I'm passionate about creating solutions that can make a difference, whether in the tech community or in real-world applications.<br><br>⚡ Fun fact: I am also a ski instructor, and I like to keep my code clean as the slopes.</p>
 
 ###
 
-<p align="left">👀 I'm drawn to pioneering projects in technology, especially those that blend programming and artificial intelligence to tackle global challenges. I seek opportunities that foster my professional growth and positively impact society.<br><br>🌱 I’m currently learning Solidity<br><br>💞️ I’m looking to collaborate on projects that challenge me and help me expand my programming skills, particularly those that involve innovative technologies or have a significant impact on society. I'm passionate about creating solutions that can make a difference, whether in the tech community or in real-world applications.<br><br>⚡ Fun fact: I am also a ski instructor, and I like to keep my code clean as the slopes.</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santagatiivan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=false" height="170" alt="languages graph"  />
+</div>
 
 ###
 
@@ -58,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
   <img width="12" />
