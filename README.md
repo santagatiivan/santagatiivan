@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 I'm drawn to pioneering projects in technology, especially those that blend programming and artificial intelligence to tackle global challenges. I seek opportunities that foster my professional growth and positively impact society.<br><br>🌱 I’m currently learning Solidity<br><br>💞️ I’m looking to collaborate on projects that challenge me and help me expand my programming skills, particularly those that involve innovative technologies or have a significant impact on society. I'm passionate about creating solutions that can make a difference, whether in the tech community or in real-world applications.<br><br>⚡ Fun fact: I am also a ski instructor, and I like to keep my code clean as the slopes.</p>
+<p align="left">👀 I'm drawn to pioneering projects in technology, especially those that blend programming and artificial intelligence to tackle global challenges. I seek opportunities that foster my professional growth and positively impact society.<br><br>🌱 I’m currently learning Go<br><br>💞️ I’m looking to collaborate on projects that challenge me and help me expand my programming skills, particularly those that involve innovative technologies or have a significant impact on society. I'm passionate about creating solutions that can make a difference, whether in the tech community or in real-world applications.<br><br>⚡ Fun fact: I am also a ski instructor, and I like to keep my code clean as the slopes.</p>
 
 ###
 
